@@ -1,5 +1,7 @@
 # Awesome Node.js tools, frameworks, libraries and resources.
 
+![Awesome Node](https://github.com/shaikh-shahid/awesome-node/blob/master/Awesome%20Node.jpg)
+
 ## Contents
 
 - [Packages](#packages)
@@ -57,8 +59,6 @@
 	- [Newsletters](#newsletters)
 	- [Videos](#videos)
 	- [Books](#books)
-	- [Blogs](#blogs)
-	- [Courses](#courses)
 	- [Cheatsheets](#cheatsheets)
 	- [Community](#community)
 
@@ -783,17 +783,6 @@
 - [Practical Modern JavaScript](https://www.amazon.com/Practical-Modern-JavaScript-Dive-Future/dp/149194353X)
 - [Mastering Modular JavaScript](https://www.amazon.com/Mastering-Modular-JavaScript-Nicolas-Bevacqua/dp/1491955686/)
 - [Get Programming with Node.js](https://www.manning.com/books/get-programming-with-node-js)
-
-### Blogs
-
-- [Node.js blog](https://nodejs.org/en/blog/)
-- [webapplog.com](http://webapplog.com/tag/node-js/) - Blog posts on Node.js and JavaScript from the author of Practical Node.js and Pro Express.js Azat Mardan.
-
-### Courses
-
-- [Learn to build apps and APIs with Node.js](https://learnnode.com/friend/AWESOME) - Video course by Wes Bos.
-- [Real Time Web with Node.js](https://www.codeschool.com/courses/real-time-web-with-node-js)
-- [Learn and Understand Node.js](https://www.udemy.com/understand-nodejs)
 
 ### Cheatsheets
 
